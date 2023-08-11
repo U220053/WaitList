@@ -30,7 +30,7 @@ const JoinWaitlistForm: FC = () => {
   return (
     <div className=" p-4">
       <h1
-        className="text-5xl font-bold text-transparent bg-clip-text bg-gradient-to-r to-emerald-600 from-sky-400 mb-4 "
+        className="text-3xl sm:text-5xl md:text-5xl lg:text-5xl xl:text-5xl font-bold text-transparent bg-clip-text bg-gradient-to-r to-emerald-600 from-sky-400 mb-4 min-w-[320px] sm:min-w-[500px]"
         style={{ marginBottom: "50px" }}
       >
         Join Our Waitlist
